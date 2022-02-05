@@ -1,0 +1,20 @@
+{
+	"songs": [
+		["Darkness", "bf", [146, 113, 253]]
+	],
+
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+
+	"storyName": "Night 5",
+	"weekBefore": "tutorial",
+	"weekName": "Week 1",
+	"startUnlocked": false,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

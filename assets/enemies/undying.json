@@ -1,0 +1,26 @@
+{
+	"name": "undying",
+    "path": "enemies/Undying_Sprites",
+
+	"antialiasing": true,
+
+    "attacks": [
+		{
+			"id": 0,
+			"animation": "Undying",
+			"animation_off": "WL Undying",
+			"offset_off": [4, -5],
+
+			"position": [40, 400],
+			"scale": 0.24,
+
+			"mechanic": 2
+			
+		}
+	],
+
+	"jumpscare": "Screamer",
+	"offset_Jumpscare": [324, 179],
+
+	"sJumpscare": "ToonsScreech1"
+}

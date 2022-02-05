@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Oswald.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Oswald0000" x="0" y="0" width="342" height="780"/>
+	<SubTexture name="Screamer0000" x="345" y="0" width="635" height="553" frameX="-190" frameY="-526" frameWidth="1711" frameHeight="1079"/>
+	<SubTexture name="Screamer0001" x="983" y="0" width="810" height="636" frameX="-103" frameY="-443" frameWidth="1711" frameHeight="1079"/>
+	<SubTexture name="Screamer0002" x="983" y="0" width="810" height="636" frameX="-103" frameY="-443" frameWidth="1711" frameHeight="1079"/>
+	<SubTexture name="Screamer0003" x="1796" y="0" width="982" height="994" frameX="-17" frameY="-85" frameWidth="1711" frameHeight="1079"/>
+	<SubTexture name="Screamer0004" x="2781" y="0" width="1002" height="1079" frameX="-7" frameY="0" frameWidth="1711" frameHeight="1079"/>
+	<SubTexture name="Screamer0005" x="3786" y="0" width="852" height="1079" frameX="-91" frameY="0" frameWidth="1711" frameHeight="1079"/>
+	<SubTexture name="Screamer0006" x="4641" y="0" width="851" height="1079" frameX="-87" frameY="0" frameWidth="1711" frameHeight="1079"/>
+	<SubTexture name="Screamer0007" x="4641" y="0" width="851" height="1079" frameX="-87" frameY="0" frameWidth="1711" frameHeight="1079"/>
+	<SubTexture name="Screamer0008" x="5495" y="0" width="868" height="1079" frameX="-86" frameY="0" frameWidth="1711" frameHeight="1079"/>
+	<SubTexture name="Screamer0009" x="5495" y="0" width="868" height="1079" frameX="-86" frameY="0" frameWidth="1711" frameHeight="1079"/>
+	<SubTexture name="Screamer0010" x="6366" y="0" width="897" height="1079" frameX="-89" frameY="0" frameWidth="1711" frameHeight="1079"/>
+	<SubTexture name="Screamer0011" x="0" y="1082" width="933" height="1079" frameX="-95" frameY="0" frameWidth="1711" frameHeight="1079"/>
+	<SubTexture name="Screamer0012" x="936" y="1082" width="1134" height="1079" frameX="-98" frameY="0" frameWidth="1711" frameHeight="1079"/>
+	<SubTexture name="Screamer0013" x="2073" y="1082" width="1327" height="1079" frameX="-76" frameY="0" frameWidth="1711" frameHeight="1079"/>
+	<SubTexture name="Screamer0014" x="3403" y="1082" width="1541" height="1079" frameX="-33" frameY="0" frameWidth="1711" frameHeight="1079"/>
+	<SubTexture name="Screamer0015" x="4947" y="1082" width="1711" height="1079"/>
+	<SubTexture name="Screamer0016" x="4947" y="1082" width="1711" height="1079"/>
+	<SubTexture name="Screamer0017" x="4947" y="1082" width="1711" height="1079"/>
+	<SubTexture name="Screamer0018" x="4947" y="1082" width="1711" height="1079"/>
+	<SubTexture name="Screamer0019" x="4947" y="1082" width="1711" height="1079"/>
+	<SubTexture name="WL Oswald0000" x="6661" y="1082" width="365" height="760"/>
+</TextureAtlas>

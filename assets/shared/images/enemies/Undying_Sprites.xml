@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Undying_Sprites.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Screamer0000" x="0" y="0" width="898" height="426" frameX="-461" frameY="-654" frameWidth="1921" frameHeight="1080"/>
+	<SubTexture name="Screamer0001" x="901" y="0" width="1222" height="529" frameX="-299" frameY="-551" frameWidth="1921" frameHeight="1080"/>
+	<SubTexture name="Screamer0002" x="901" y="0" width="1222" height="529" frameX="-299" frameY="-551" frameWidth="1921" frameHeight="1080"/>
+	<SubTexture name="Screamer0003" x="2126" y="0" width="1597" height="833" frameX="-111" frameY="-247" frameWidth="1921" frameHeight="1080"/>
+	<SubTexture name="Screamer0004" x="3726" y="0" width="1807" height="1080" frameX="-114" frameY="0" frameWidth="1921" frameHeight="1080"/>
+	<SubTexture name="Screamer0005" x="5536" y="0" width="1834" height="1080" frameX="-87" frameY="0" frameWidth="1921" frameHeight="1080"/>
+	<SubTexture name="Screamer0006" x="0" y="1083" width="1833" height="1080" frameX="-87" frameY="0" frameWidth="1921" frameHeight="1080"/>
+	<SubTexture name="Screamer0007" x="1836" y="1083" width="1907" height="1080" frameX="-13" frameY="0" frameWidth="1921" frameHeight="1080"/>
+	<SubTexture name="Screamer0008" x="3746" y="1083" width="1827" height="1080" frameX="-13" frameY="0" frameWidth="1921" frameHeight="1080"/>
+	<SubTexture name="Screamer0009" x="5576" y="1083" width="1898" height="1080" frameX="-7" frameY="0" frameWidth="1921" frameHeight="1080"/>
+	<SubTexture name="Screamer0010" x="5576" y="1083" width="1898" height="1080" frameX="-7" frameY="0" frameWidth="1921" frameHeight="1080"/>
+	<SubTexture name="Screamer0011" x="0" y="2166" width="1921" height="1080"/>
+	<SubTexture name="Screamer0012" x="1924" y="2166" width="1921" height="1080"/>
+	<SubTexture name="Screamer0013" x="1924" y="2166" width="1921" height="1080"/>
+	<SubTexture name="Screamer0014" x="3848" y="2166" width="1909" height="1080" frameX="-12" frameY="0" frameWidth="1921" frameHeight="1080"/>
+	<SubTexture name="Screamer0015" x="5760" y="2166" width="1921" height="1080"/>
+	<SubTexture name="Screamer0016" x="5760" y="2166" width="1921" height="1080"/>
+	<SubTexture name="Screamer0017" x="0" y="3249" width="1895" height="1080" frameX="0" frameY="0" frameWidth="1921" frameHeight="1080"/>
+	<SubTexture name="Screamer0018" x="0" y="3249" width="1895" height="1080" frameX="0" frameY="0" frameWidth="1921" frameHeight="1080"/>
+	<SubTexture name="Screamer0019" x="0" y="3249" width="1895" height="1080" frameX="0" frameY="0" frameWidth="1921" frameHeight="1080"/>
+	<SubTexture name="Undying0000" x="1898" y="3249" width="498" height="939"/>
+	<SubTexture name="WL Undying0000" x="2399" y="3249" width="500" height="934"/>
+</TextureAtlas>

@@ -1,0 +1,25 @@
+{
+	"name": "theface",
+    "path": "enemies/TheFace_Sprites",
+
+	"antialiasing": true,
+
+    "attacks": [
+		{
+			"id": 0,
+			"animation": "The Face",
+			"animation_off": "WL The Face",
+			"offset_off": [0, 0],
+
+			"position": [850, 700],
+			"scale": 0.2,
+
+			"mechanic": 1
+		}
+	],
+
+	"jumpscare": "Screamer",
+	"offset_Jumpscare": [317, 184],
+
+	"sJumpscare": "ToonsScreech1"
+}	

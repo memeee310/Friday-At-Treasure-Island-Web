@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Acephalous_Sprites.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Acephalous0000" x="0" y="0" width="301" height="699"/>
+	<SubTexture name="WL Acephalous0000" x="304" y="0" width="301" height="727"/>
+	<SubTexture name="Screamer0000" x="608" y="0" width="1079" height="571" frameX="-48" frameY="-508" frameWidth="1921" frameHeight="1079"/>
+	<SubTexture name="Screamer0001" x="1690" y="0" width="1135" height="670" frameX="-32" frameY="-409" frameWidth="1921" frameHeight="1079"/>
+	<SubTexture name="Screamer0002" x="2828" y="0" width="1192" height="769" frameX="-16" frameY="-310" frameWidth="1921" frameHeight="1079"/>
+	<SubTexture name="Screamer0003" x="4023" y="0" width="1248" height="867" frameX="-1" frameY="-212" frameWidth="1921" frameHeight="1079"/>
+	<SubTexture name="Screamer0004" x="5274" y="0" width="1286" height="966" frameX="0" frameY="-113" frameWidth="1921" frameHeight="1079"/>
+	<SubTexture name="Screamer0005" x="6563" y="0" width="1550" height="1046" frameX="0" frameY="-33" frameWidth="1921" frameHeight="1079"/>
+	<SubTexture name="Screamer0006" x="0" y="1049" width="1653" height="1047" frameX="0" frameY="-32" frameWidth="1921" frameHeight="1079"/>
+	<SubTexture name="Screamer0007" x="1656" y="1049" width="1757" height="1049" frameX="0" frameY="-30" frameWidth="1921" frameHeight="1079"/>
+	<SubTexture name="Screamer0008" x="3416" y="1049" width="1748" height="1050" frameX="0" frameY="-29" frameWidth="1921" frameHeight="1079"/>
+	<SubTexture name="Screamer0009" x="5167" y="1049" width="1795" height="1051" frameX="0" frameY="-28" frameWidth="1921" frameHeight="1079"/>
+	<SubTexture name="Screamer0010" x="0" y="2103" width="1680" height="1047" frameX="0" frameY="-32" frameWidth="1921" frameHeight="1079"/>
+	<SubTexture name="Screamer0011" x="1683" y="2103" width="1744" height="1058" frameX="0" frameY="-21" frameWidth="1921" frameHeight="1079"/>
+	<SubTexture name="Screamer0012" x="3430" y="2103" width="1811" height="1069" frameX="0" frameY="-10" frameWidth="1921" frameHeight="1079"/>
+	<SubTexture name="Screamer0013" x="5244" y="2103" width="1878" height="1079" frameX="0" frameY="0" frameWidth="1921" frameHeight="1079"/>
+	<SubTexture name="Screamer0014" x="0" y="3185" width="1921" height="1079"/>
+	<SubTexture name="Screamer0015" x="1924" y="3185" width="1921" height="1079"/>
+	<SubTexture name="Screamer0016" x="1924" y="3185" width="1921" height="1079"/>
+	<SubTexture name="Screamer0017" x="1924" y="3185" width="1921" height="1079"/>
+	<SubTexture name="Screamer0018" x="1924" y="3185" width="1921" height="1079"/>
+</TextureAtlas>

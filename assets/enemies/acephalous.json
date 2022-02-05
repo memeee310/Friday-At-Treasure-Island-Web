@@ -1,0 +1,26 @@
+{
+	"name": "acephalous",
+    "path": "enemies/Acephalous_Sprites",
+
+	"antialiasing": true,
+
+    "attacks": [
+		{
+			"id": 0,
+			"animation": "Acephalous",
+			"animation_off": "WL Acephalous",
+			"offset_off": [0, 28],
+
+			"position": [870, 550],
+			"scale": 1,
+
+			"mechanic": 2
+			
+		}
+	],
+
+	"jumpscare": "Screamer",
+	"offset_Jumpscare": [50, 114],
+
+	"sJumpscare": "ToonsScreech1"
+}

@@ -1,0 +1,66 @@
+{
+	"name": "hourglass",
+    "path": "enemies/Hourglass_Assets",
+	
+	"antialiasing": true,
+
+    "attacks": [
+		{
+			"id": 0,
+			"animation": "Hourglass pose 1",
+			"animation_off": "WL Hourglass pose 1",
+			"offset_off": [0, 0],
+
+			"position": [550, 700],
+			"scale": 1,
+
+			"mechanic": 0
+			
+		},{
+			"id": 1,
+			"animation": "Hourglass pose 2",
+			"animation_off": "WL Hourglass pose 2",
+			"offset_off": [0, 0],
+
+			"position": [550, 530],
+			"scale": 1,
+
+			"mechanic": 1
+		},{
+			"id": 2,
+			"animation": "Hourglass pose 3",
+			"animation_off": "WL Hourglass pose 3",
+			"offset_off": [0, 0],
+
+			"position": [1200, 600],
+			"scale": 1,
+
+			"mechanic": 0
+		},{
+			"id": 3,
+			"animation": "Hourglass pose 4",
+			"animation_off": "WL Hourglass pose 4",
+			"offset_off": [0, 0],
+
+			"position": [0, 600],
+			"scale": 1,
+
+			"mechanic": 2
+		},{
+			"id": 4,
+			"animation": "Hourglass pose 5",
+			"animation_off": "WL Hourglass pose 5",
+			"offset_off": [0, 0],
+
+			"position": [850, 550],
+			"scale": 1,
+
+			"mechanic": 2
+		}
+	],
+
+	"jumpscare": "Screamer",
+	"offset_Jumpscare": [108, 130],
+
+	"sJumpscare": "HourglassScreech1"
+}

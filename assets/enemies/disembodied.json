@@ -1,0 +1,23 @@
+{
+	"name": "disembodied",
+    "path": "enemies/Donald_sprites",
+
+	"antialiasing": true,
+
+    "attacks": [
+		{
+			"id": 0,
+			"animation": "Donald",
+			"animation_off": "luz Donald",
+			"offset_off": [0, 0],
+
+			"position": [730, 540],
+			"scale": 0.85,
+
+			"mechanic": 3
+			
+		}
+	],
+
+	"jumpscare": "Screamer"
+}

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="camBox.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="camBox Selected0000" x="0" y="0" width="487" height="344"/>
+	<SubTexture name="camBox Selected0001" x="0" y="0" width="487" height="344"/>
+	<SubTexture name="camBox Selected0002" x="0" y="0" width="487" height="344"/>
+	<SubTexture name="camBox Selected0003" x="0" y="0" width="487" height="344"/>
+	<SubTexture name="camBox Selected0004" x="0" y="0" width="487" height="344"/>
+	<SubTexture name="camBox Selected0005" x="490" y="0" width="487" height="344"/>
+	<SubTexture name="camBox Selected0006" x="490" y="0" width="487" height="344"/>
+	<SubTexture name="camBox Selected0007" x="490" y="0" width="487" height="344"/>
+	<SubTexture name="camBox Selected0008" x="490" y="0" width="487" height="344"/>
+	<SubTexture name="camBox Selected0009" x="490" y="0" width="487" height="344"/>
+	<SubTexture name="camBox Unselected0000" x="0" y="347" width="487" height="344"/>
+</TextureAtlas>

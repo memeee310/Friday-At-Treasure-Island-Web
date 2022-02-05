@@ -1,0 +1,20 @@
+{
+	"songs": [
+		["Merged", "bf", [146, 113, 253]]
+	],
+
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+
+	"storyName": "Night 6",
+	"weekBefore": "week1",
+	"weekName": "Week 2",
+	"startUnlocked": false,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}
